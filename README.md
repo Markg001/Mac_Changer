@@ -9,6 +9,7 @@ Retrieve and display the current MAC address before and after making changes.
 Input validation to ensure necessary options are provided.
 
 **Benefits of This Script**
+
   [1]Privacy & Security: Changing your MAC address can help improve privacy when connecting to public Wi-Fi networks. By changing the MAC address, you can prevent tracking and improve anonymity, since the MAC address is often used by networks to     
      identify devices.
 
@@ -33,3 +34,5 @@ Output:
 [+] Changing MAC address for wlan0 to 00:11:22:33:44:55
 Current MAC = 11:22:33:44:55:66
 [-] MAC address was successfully changed to 00:11:22:33:44:55
+
+![mac_address](https://github.com/user-attachments/assets/07660d38-2241-4b33-9d46-379ab905541d)
