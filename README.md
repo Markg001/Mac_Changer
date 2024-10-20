@@ -9,11 +9,12 @@ Retrieve and display the current MAC address before and after making changes.
 Input validation to ensure necessary options are provided.
 
 **Benefits of This Script**
-Privacy & Security: Changing your MAC address can help improve privacy when connecting to public Wi-Fi networks. By changing the MAC address, you can prevent tracking and improve anonymity, since the MAC address is often used by networks to identify devices.
+  [1]Privacy & Security: Changing your MAC address can help improve privacy when connecting to public Wi-Fi networks. By changing the MAC address, you can prevent tracking and improve anonymity, since the MAC address is often used by networks to     
+     identify devices.
 
-Network Testing: In network penetration testing, changing your MAC address can help bypass MAC filtering (a security measure used by some networks) or test network behavior with different devices.
+  [2]Network Testing: In network penetration testing, changing your MAC address can help bypass MAC filtering (a security measure used by some networks) or test network behavior with different devices.
 
-Bypassing Network Restrictions: In some cases, networks or ISPs (Internet Service Providers) may restrict devices based on their MAC addresses. Changing the MAC address can sometimes help bypass these restrictions and reconnect to the network.
+  [3]Bypassing Network Restrictions: In some cases, networks or ISPs (Internet Service Providers) may restrict devices based on their MAC addresses. Changing the MAC address can sometimes help bypass these restrictions and reconnect to the network.
 
 **Prerequisites**
 This script is designed to run on Linux-based systems with the ifconfig tool installed. Ensure that you have administrative (root) privileges to run it, as changing the MAC address requires elevated permissions.
